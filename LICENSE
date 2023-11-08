@@ -1,0 +1,9 @@
+
+### requirements.txt
+
+```plaintext
+# This file contains all the required Python packages for the project.
+
+sqlite3
+pandas
+```
